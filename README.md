@@ -1,6 +1,6 @@
 ## East Africa Demographic Shifts: Spatial Analysis (2015-2025)
 
-![Population Change Map](notebook/images/population_change_2015_2025.png)
+![Population Change Map](notebooks/images/population_change_2015_2025.png)
 
 ### 🌍 Project Overview
 This project leverages geospatial data to analyze population growth patterns across **Uganda, Rwanda, Burundi, and Tanzania**. By classifying demographic shifts into Decline, Neutral, Growth, and High Growth categories, this analysis aids in identifying urbanization hotspots and resource allocation needs.
